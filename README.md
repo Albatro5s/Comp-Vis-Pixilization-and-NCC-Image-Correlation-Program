@@ -7,8 +7,8 @@ Resolution modifier program utilizing superpixels and NCC image comparison to lo
 
 ![image](https://user-images.githubusercontent.com/49098697/189433238-ba3f9243-ed8e-4e20-b7b8-3f7a8aeb38fe.png)
 
-Template image:
+Sample image:
 ![search](https://user-images.githubusercontent.com/49098697/189433459-54362009-1efb-4bf6-a69c-43d808adc384.png)
 
-Seached for image: 
+Template image: 
 ![template](https://user-images.githubusercontent.com/49098697/189433468-1163e8ef-19dc-4c04-9faf-0315a5346827.png)
